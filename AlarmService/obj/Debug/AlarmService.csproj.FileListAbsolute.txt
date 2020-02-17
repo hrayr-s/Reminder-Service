@@ -1,0 +1,18 @@
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\AlarmService\bin\Debug\AlarmService.exe.config
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\AlarmService\bin\Debug\AlarmService.exe
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\AlarmService\bin\Debug\AlarmService.pdb
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\AlarmService\obj\Debug\AlarmService.csprojResolveAssemblyReference.cache
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\AlarmService\obj\Debug\AlarmService.exe
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\AlarmService\obj\Debug\AlarmService.pdb
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\AlarmService\bin\Debug\AlarmService.exe.config
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\AlarmService\bin\Debug\AlarmService.exe
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\AlarmService\bin\Debug\AlarmService.pdb
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\AlarmService\obj\Debug\AlarmService.exe
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\AlarmService\obj\Debug\AlarmService.pdb
+H:\Users\Hrayr\Cloud Mail.Ru\Hrayr\Projects\Reminder\AlarmService\bin\Debug\AlarmService.exe.config
+H:\Users\Hrayr\Cloud Mail.Ru\Hrayr\Projects\Reminder\AlarmService\bin\Debug\AlarmService.exe
+H:\Users\Hrayr\Cloud Mail.Ru\Hrayr\Projects\Reminder\AlarmService\bin\Debug\AlarmService.pdb
+H:\Users\Hrayr\Cloud Mail.Ru\Hrayr\Projects\Reminder\AlarmService\obj\Debug\AlarmService.csprojAssemblyReference.cache
+H:\Users\Hrayr\Cloud Mail.Ru\Hrayr\Projects\Reminder\AlarmService\obj\Debug\AlarmService.csproj.CoreCompileInputs.cache
+H:\Users\Hrayr\Cloud Mail.Ru\Hrayr\Projects\Reminder\AlarmService\obj\Debug\AlarmService.exe
+H:\Users\Hrayr\Cloud Mail.Ru\Hrayr\Projects\Reminder\AlarmService\obj\Debug\AlarmService.pdb

@@ -1,0 +1,39 @@
+e:\users\hrayr\documents\visual studio 2015\Projects\Reminder\Reminder\bin\Debug\Reminder.exe.config
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\bin\Debug\Reminder.exe.config
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.exe
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.pdb
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\bin\Debug\Reminder.exe
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\bin\Debug\Reminder.pdb
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.csprojResolveAssemblyReference.cache
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.mainform.resources
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.Properties.Resources.resources
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.csproj.GenerateResource.Cache
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\bin\Debug\Reminder.exe.manifest
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\bin\Debug\Reminder.application
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.exe.manifest
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.application
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Interop.WMPLib.dll
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.csproj.ResolveComReference.cache
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\bin\Debug\Reminder.exe.config
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\bin\Debug\Reminder.exe.manifest
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\bin\Debug\Reminder.application
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\bin\Debug\Reminder.exe
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\bin\Debug\Reminder.pdb
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Interop.WMPLib.dll
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.csproj.ResolveComReference.cache
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.mainform.resources
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.Properties.Resources.resources
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.csproj.GenerateResource.Cache
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.exe.manifest
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.application
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.exe
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.pdb
+H:\Users\Hrayr\Cloud Mail.Ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.csprojAssemblyReference.cache
+H:\Users\Hrayr\Cloud Mail.Ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Interop.WMPLib.dll
+H:\Users\Hrayr\Cloud Mail.Ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.csproj.ResolveComReference.cache
+H:\Users\Hrayr\Cloud Mail.Ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.mainform.resources
+H:\Users\Hrayr\Cloud Mail.Ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.Properties.Resources.resources
+H:\Users\Hrayr\Cloud Mail.Ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.csproj.GenerateResource.cache
+H:\Users\Hrayr\Cloud Mail.Ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.csproj.CoreCompileInputs.cache
+H:\Users\Hrayr\Cloud Mail.Ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.exe
+H:\Users\Hrayr\Cloud Mail.Ru\Hrayr\Projects\Reminder\Reminder\obj\Debug\Reminder.pdb

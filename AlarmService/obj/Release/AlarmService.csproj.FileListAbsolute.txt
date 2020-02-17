@@ -1,0 +1,6 @@
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\AlarmService\bin\Release\AlarmService.exe.config
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\AlarmService\bin\Release\AlarmService.exe
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\AlarmService\bin\Release\AlarmService.pdb
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\AlarmService\obj\Release\AlarmService.exe
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\AlarmService\obj\Release\AlarmService.pdb
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\AlarmService\obj\Release\AlarmService.csprojResolveAssemblyReference.cache

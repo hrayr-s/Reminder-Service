@@ -1,0 +1,16 @@
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\bin\Release\Reminder.exe.config
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\bin\Release\Reminder.exe
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\bin\Release\Reminder.pdb
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Release\Reminder.mainform.resources
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Release\Reminder.Properties.Resources.resources
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Release\Reminder.csproj.GenerateResource.Cache
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Release\Reminder.exe
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Release\Reminder.pdb
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\bin\Release\Reminder.exe.config
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Release\Reminder.exe
+E:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Release\Reminder.pdb
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\bin\Release\Reminder.exe.manifest
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\bin\Release\Reminder.application
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Release\Reminder.exe.manifest
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Release\Reminder.application
+G:\Users\Hrayr\Cloud@mail.ru\Hrayr\Projects\Reminder\Reminder\obj\Release\Reminder.csprojResolveAssemblyReference.cache
